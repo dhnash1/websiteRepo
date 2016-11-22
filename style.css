@@ -15,14 +15,14 @@ p {
 
 button{
   width: 250px;
-  text-align: center;
+  margin: 5px center;
 
 
 
 }
 
-.things li{
-  width: 50px;
+ul li{
+  width: 100px;
   margin: 5px auto;
   color: blue;
 }

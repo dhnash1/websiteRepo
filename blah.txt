@@ -1,0 +1,17 @@
+Why git?
+  -collaboration
+  -versions
+  -take risks
+    -incremental changes
+      Don't only commit once.
+
+Git commands:
+init -> .git
+add
+status & dif
+commit
+*add remote
+push (w/-u)
+_____________________
+fork - github
+clone

@@ -1,3 +1,3 @@
-function doStuff(){
-  alert("Stuff!!")
+function doStuff(x,y){
+  console.log(x,y);
 }
